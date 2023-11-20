@@ -1,0 +1,105 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+li a:hover {
+
+    color: red !important;
+}
+.hero {
+    height: 70vh;
+    background-color: black;
+   
+}
+
+.second {
+    background-color:whitesmoke !important;
+
+
+}
+.carousel-caption {
+    text-align: left;
+}
+
+
+.carousel-item img {
+    opacity: 0.3;
+}
+
+.product {
+    margin-bottom: 20px;
+
+    background-color: whitesmoke;
+}
+
+.h5 {
+    line-height: 24px;
+}
+
+.form-box {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ececec;
+    box-shadow: 10px 10px 15px #c7c4c4 -10px -10px -15px;
+
+}
+
+.form-box input {
+
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    background: #ececec;
+
+}
+
+.form-box button {
+
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    background: blue;
+    cursor: pointer;
+    transition: -3s;
+
+}
+
+
+.form-box button:hover {
+    background: green;
+}
+
+.icon i {
+    font-size: 30px;
+    color: white;
+    padding: 18px;
+}
+
+.box {
+    text-align: center;
+}
+
+.form-hot input {
+
+    font-size: 15px;
+    color: black;
+    padding: 15px 110px;
+    outline: none;
+    background: #ececec;
+    border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
